@@ -1,1 +1,6 @@
 # Motivational_Speech_Wallpaper
+
+Motivational Speech WallpaperはRecursion project1の課題の１つです。
+モチベーションを高める壁紙を生成するウェブアプリケーション。
+背景画像にモチベーションの高まるテキストを載せたオブジェクトを出力するWeb applicationの作成を通して
+DOMの概念を学習するProjectです。
